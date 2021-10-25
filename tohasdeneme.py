@@ -1,1 +1,1 @@
-tohasdeneme
+print('Hello World')
